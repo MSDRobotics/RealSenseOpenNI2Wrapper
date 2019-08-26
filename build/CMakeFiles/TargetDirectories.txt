@@ -1,0 +1,3 @@
+C:/Users/rpennings/home/git/openni2Wrapper/build/CMakeFiles/rs2driver.dir
+C:/Users/rpennings/home/git/openni2Wrapper/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/rpennings/home/git/openni2Wrapper/build/CMakeFiles/ZERO_CHECK.dir

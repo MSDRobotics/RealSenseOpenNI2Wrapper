@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\rpennings\home\git\openni2Wrapper\build\CMakeFiles\b777ddd2b576c41edf87589c41bd51b0\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F891D8DD-59BF-30F9-8397-0BEBECF48799}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+C:\Users\rpennings\home\git\openni2Wrapper\bin\Release\ClassLibrary.dll
+C:\Users\rpennings\home\git\openni2Wrapper\bin\Release\ClassLibrary.pdb
+C:\Users\rpennings\home\git\openni2Wrapper\obj\Release\Opennni2Wrapper.csproj.CoreCompileInputs.cache
+C:\Users\rpennings\home\git\openni2Wrapper\obj\Release\ClassLibrary.dll
+C:\Users\rpennings\home\git\openni2Wrapper\obj\Release\ClassLibrary.pdb

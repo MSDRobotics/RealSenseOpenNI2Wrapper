@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\rpennings\home\git\openni2Wrapper\src\Rs2Base.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rpennings\home\git\openni2Wrapper\src\Rs2Stream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rpennings\home\git\openni2Wrapper\src\Rs2StreamProps.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rpennings\home\git\openni2Wrapper\src\Rs2Device.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rpennings\home\git\openni2Wrapper\src\Rs2DeviceProps.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rpennings\home\git\openni2Wrapper\src\Rs2Driver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\rpennings\home\git\openni2Wrapper\src\Rs2Base.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rpennings\home\git\openni2Wrapper\src\Rs2Stream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rpennings\home\git\openni2Wrapper\src\Rs2Device.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rpennings\home\git\openni2Wrapper\src\Rs2Driver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rpennings\home\git\openni2Wrapper\src\Profiler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rpennings\home\git\openni2Wrapper\src\Profiler.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\rpennings\home\git\openni2Wrapper\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FD70E6A9-D31C-3D63-AD30-20C33A62DF34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{611DFD8F-D094-3E31-8211-85D935136B5D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

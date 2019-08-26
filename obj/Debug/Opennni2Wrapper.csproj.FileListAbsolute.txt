@@ -1,0 +1,12 @@
+C:\Users\rpennings\home\git\openni2\bin\Debug\ClassLibrary.dll
+C:\Users\rpennings\home\git\openni2\bin\Debug\ClassLibrary.pdb
+C:\Users\rpennings\home\git\openni2\obj\Debug\Opennni2Wrapper.csprojAssemblyReference.cache
+C:\Users\rpennings\home\git\openni2\obj\Debug\Opennni2Wrapper.csproj.CoreCompileInputs.cache
+C:\Users\rpennings\home\git\openni2\obj\Debug\ClassLibrary.dll
+C:\Users\rpennings\home\git\openni2\obj\Debug\ClassLibrary.pdb
+C:\Users\rpennings\home\git\openni2Wrapper\bin\Debug\ClassLibrary.dll
+C:\Users\rpennings\home\git\openni2Wrapper\bin\Debug\ClassLibrary.pdb
+C:\Users\rpennings\home\git\openni2Wrapper\obj\Debug\Opennni2Wrapper.csprojAssemblyReference.cache
+C:\Users\rpennings\home\git\openni2Wrapper\obj\Debug\Opennni2Wrapper.csproj.CoreCompileInputs.cache
+C:\Users\rpennings\home\git\openni2Wrapper\obj\Debug\ClassLibrary.dll
+C:\Users\rpennings\home\git\openni2Wrapper\obj\Debug\ClassLibrary.pdb
